@@ -8,6 +8,54 @@ To add a certain degree of automation in our robotics club premises. Implemented
 
 ![image1](https://user-images.githubusercontent.com/126940912/233316813-338e5da4-cc6c-41ea-9351-04fc0412f604.jpg)
 
+<h3>CONTRIBUTORS</h3>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>Registration number</th>
+  </tr>
+  <tr>
+    <td>Deepak Kumar Singh</td>
+    <td>ECE</td>
+    <td>20215141</td>
+  </tr>
+  <tr>
+    <td>Vinay Kumar</td>
+    <td>ECE</td>
+    <td>20215029</td>
+  </tr>
+  <tr>
+    <td>Shobhit Singh</td>
+    <td>ME</td>
+    <td>20213041</td>
+  </tr>
+  <tr>
+    <td>Harsh vardhan Raghuvanshi</td>
+    <td>ME</td>
+    <td>20213009</td>
+  </tr>
+ </table>
+<hr>
+<h3>MENTORS</h3>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Branch</th>
+    <th>Registration number</th>
+  </tr>
+  <tr>
+    <td>Bipul Karna</td>
+    <td>CE</td>
+    <td>20201037</td>
+  </tr>
+  <tr>
+    <td>Purushotam Kumar Agrawal</td>
+    <td>EE</td>
+    <td>20192042</td>
+  </tr>
+ </table>
+ <hr>
 
 ## TECH STACK
 **1.** Arduino
