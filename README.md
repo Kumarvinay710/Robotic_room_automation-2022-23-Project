@@ -97,6 +97,60 @@ It's important to note that manual override of an RFID door lock should only be 
 
 **Uses:** Rfid door lock is the perfect door lock for hotels, hospitals, and large corporations.
 
+## Resources:
+- Arduino:
+
+  - Theory
+  
+    - https://docs.arduino.cc/learn/starting-guide/whats-arduino
+  
+  - Programming:
+  
+    - https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
+  
+    - https://www.youtube.com/watch?v=PzJayPUPV6A&list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM
+ 
+ 
+- Servo Motor:
+
+  - Theory:
+    
+    - https://circuitdigest.com/article/servo-motor-working-and-basics
+    
+  - Programming:
+    
+    - https://www.circuitbasics.com/controlling-servo-motors-with-arduino/
+    
+    - https://www.youtube.com/watch?v=kUHmYKWwuWs
+ 
+ 
+- RFID:
+
+  - Theory:
+    
+    - https://www.techtarget.com/iotagenda/definition/RFID-radio-frequency-identification
+  
+  - Programming:
+    
+    - https://www.youtube.com/watch?v=Ukfpq71BoMo
+    
+    - https://www.youtube.com/watch?v=MA3hWp2efZ8
+    
+    - https://www.youtube.com/watch?v=GOO84CGBPz8
+    
+    - https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/
+  
+ 
+- LCD With I2C Module:
+    
+     - https://howtomechatronics.com/tutorials/arduino/lcd-tutorial/
+    
+     - https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
+ 
+ 
+- Communication:
+    
+     - https://www.youtube.com/watch?v=IyGwvGzrqp8
 
 
 
