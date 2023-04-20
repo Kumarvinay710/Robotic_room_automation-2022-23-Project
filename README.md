@@ -56,6 +56,11 @@ To add a certain degree of automation in our robotics club premises. Implemented
     <td>EE</td>
     <td>20192042</td>
   </tr>
+  <tr>
+    <td>Amit</td>
+    <td>CSE</td>
+    <td>20194090</td>
+  </tr>
  </table>
  <hr>
 
