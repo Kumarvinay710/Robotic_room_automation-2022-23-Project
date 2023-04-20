@@ -1,7 +1,13 @@
 # Robotic_room_automation-2022-23-Project
 
+
+![Robotics Club MNNIT](https://user-images.githubusercontent.com/126940912/233314848-bdcfcf6c-c1b3-4a94-881f-2db659a3941f.jpg)
+
 ## AIM
 To add a certain degree of automation in our robotics club premises. Implemented keyless access to the club.
+
+![image1](https://user-images.githubusercontent.com/126940912/233316813-338e5da4-cc6c-41ea-9351-04fc0412f604.jpg)
+
 
 ## TECH STACK
 **1.** Arduino
@@ -47,8 +53,12 @@ If we need to manually override an RFID door lock system with a key, we can typi
 It's important to note that manual override of an RFID door lock should only be used in emergency situations or when the electronic system fails. Regular use of the key override can compromise the security of the lock and should be avoided.
 
 ## Ciruit Diagram:
+![image3](https://user-images.githubusercontent.com/126940912/233317052-5389178b-a0a3-4ff5-94d9-c0b965a1f674.jpg)
+
 
 ## Door Lock System:
+![image2](https://user-images.githubusercontent.com/126940912/233317123-4cfa4201-cfd5-48dd-ba7a-40a41e51a222.jpg)
+
 **A.** Door lock for manual override. It's a retractable system, when a key is applied the whole servo+door lock system will be retracted.
 
 **B.** Servo Motor
