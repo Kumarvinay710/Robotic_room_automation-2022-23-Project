@@ -150,57 +150,45 @@ It's important to note that manual override of an RFID door lock should only be 
 ## Resources:
 - Arduino:
 
-  - Theory
+  - <a href="https://docs.arduino.cc/learn/starting-guide/whats-arduino" target="_blank">Theory</a>
   
-    - https://docs.arduino.cc/learn/starting-guide/whats-arduino
+  - <a href="https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP" target="_blank">Arduino Programming 1</a>
   
-  - Programming:
-  
-    - https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP
-  
-    - https://www.youtube.com/watch?v=PzJayPUPV6A&list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM
+  - <a href="https://www.youtube.com/watch?v=PzJayPUPV6A&list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM" target="_blank">Arduino Programming 2</a>
  
  
 - Servo Motor:
 
-  - Theory:
+  - <a href="https://circuitdigest.com/article/servo-motor-working-and-basics" target="_blank">Theory</a>
     
-    - https://circuitdigest.com/article/servo-motor-working-and-basics
+  - <a href="https://www.circuitbasics.com/controlling-servo-motors-with-arduino/" target="_blank">Servo Motor Programming</a>
     
-  - Programming:
-    
-    - https://www.circuitbasics.com/controlling-servo-motors-with-arduino/
-    
-    - https://www.youtube.com/watch?v=kUHmYKWwuWs
- 
+  - <a href="https://www.youtube.com/watch?v=kUHmYKWwuWs" target="_blank">Using Servo Motor With Arduino</a>
  
 - RFID:
 
-  - Theory:
-    
-    - https://www.techtarget.com/iotagenda/definition/RFID-radio-frequency-identification
+  - <a href="https://www.techtarget.com/iotagenda/definition/RFID-radio-frequency-identification">Theory</a>
   
-  - Programming:
+  - <a href="https://www.youtube.com/watch?v=Ukfpq71BoMo">RFID in details</a>
     
-    - https://www.youtube.com/watch?v=Ukfpq71BoMo
+  - <a href="https://www.youtube.com/watch?v=MA3hWp2efZ8">RFID with Arduino</a>
     
-    - https://www.youtube.com/watch?v=MA3hWp2efZ8
+  - <a href="https://www.youtube.com/watch?v=GOO84CGBPz8">RFID setup for this project</a>
     
-    - https://www.youtube.com/watch?v=GOO84CGBPz8
+  - <a href="https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/">RFID programming code and explanation</a>
     
-    - https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/
   
  
 - LCD With I2C Module:
     
-     - https://howtomechatronics.com/tutorials/arduino/lcd-tutorial/
+     - <a href="https://howtomechatronics.com/tutorials/arduino/lcd-tutorial/">Standard LCD</a>
     
-     - https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/
+     - <a href="https://lastminuteengineers.com/i2c-lcd-arduino-tutorial/">LCD with I2C Module</a>
  
  
 - Communication:
     
-     - https://www.youtube.com/watch?v=IyGwvGzrqp8
+     - <a href="https://www.youtube.com/watch?v=IyGwvGzrqp8">SPI Communication</a>
 
 <br>
 <br>
