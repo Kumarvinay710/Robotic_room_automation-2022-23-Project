@@ -16,26 +16,31 @@ To add a certain degree of automation in our robotics club premises. Implemented
     <th>Name</th>
     <th>Branch</th>
     <th>Registration number</th>
+    <th>Year</th>
   </tr>
   <tr>
     <td>Deepak Kumar Singh</td>
     <td>ECE</td>
     <td>20215141</td>
+    <td>Second Year</td>
   </tr>
   <tr>
     <td>Vinay Kumar</td>
     <td>ECE</td>
     <td>20215029</td>
+    <td>Second Year</td>
   </tr>
   <tr>
     <td>Shobhit Singh</td>
     <td>ME</td>
     <td>20213041</td>
+    <td>Second Year</td>
   </tr>
   <tr>
     <td>Harsh vardhan Raghuvanshi</td>
     <td>ME</td>
     <td>20213009</td>
+    <td>Second Year</td>
   </tr>
  </table>
 <hr>
@@ -45,16 +50,19 @@ To add a certain degree of automation in our robotics club premises. Implemented
     <th>Name</th>
     <th>Branch</th>
     <th>Registration number</th>
+    <th>Year</th>
   </tr>
   <tr>
     <td>Bipul Karna</td>
     <td>CE</td>
     <td>20201037</td>
+    <td>Third Year</td>
   </tr>
   <tr>
     <td>Purushotam Kumar Agrawal</td>
     <td>EE</td>
     <td>20192042</td>
+    <td>Final Year</td>
   </tr>
  </table>
  <hr>
