@@ -6,7 +6,7 @@
 ## AIM
 To add a certain degree of automation in our robotics club premises. Implemented keyless access to the club.
 
-![image1](https://user-images.githubusercontent.com/126940912/233316813-338e5da4-cc6c-41ea-9351-04fc0412f604.jpg)
+![IMG20230507004341](https://user-images.githubusercontent.com/126940912/236662050-b73f7b2f-9023-4b77-a206-d7fc9a4edfb1.jpg)
 
 <a href="https://docs.google.com/document/d/1Y2PmUg7p9Uy_fBO8KYPdWmKAybnYywYo/edit?usp=sharing&ouid=113325074791844922164&rtpof=true&sd=true" target="_blank">Project report</a>
 
